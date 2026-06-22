@@ -1,3 +1,12 @@
+# 🎮 Projeto Final — Quiz Interativo - Parte 2
+
+# Discentes: 
+# José Eduardo - Matrícula - 20261322030013
+# Lariça Geórgia - Matrícula - 20261322030049
+# Carlos Jefferson - Matrícula - 20261322030005
+
+
+
 from perguntas import perguntas
 from funcoes import exibir_menu, fazer_pergunta
 
