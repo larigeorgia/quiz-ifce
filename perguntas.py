@@ -1,4 +1,4 @@
-perguntas = [
+perguntas = [ 
     {
         "enunciado": "Qual é o maior país em extensão territorial da América do Sul?",
         "opcoes"   : ["Argentina", "Colômbia", "Peru", "Brasil"],
